@@ -13,6 +13,7 @@ Bu repo'yu bilgisayarınıza kopyalayın: git clone https://github.com/CyberTKR/
 - `openai`
 
 Gerekli kütüphaneleri yükleyin: `pip3 install openai`
+
 game.py dosyasını çalıştırın: `python3 game.py`
 
 Oynanış
